@@ -1,4 +1,4 @@
-- - - Expert Assessment - "Alessandro Manzoni" - - - 
+- Expert Assessment - "Alessandro Manzoni"
 
 Live Project : https://prova-esperta.alexandrudumbrava38.workers.dev
 
